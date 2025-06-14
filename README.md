@@ -1,4 +1,11 @@
-# 🚀 Getting started with Strapi
+# 🚀 Getting started with Strapi CMS
+
+Check node --version
+Check npm --version
+
+Choose the folder in your machine where you want the project set up 
+
+npx create-strapi@latest 
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
 
